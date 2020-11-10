@@ -1,0 +1,26 @@
+{
+  "name": "VueJsExcel",
+  "version": "0.0.1",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-js-excel": "^1.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "excel",
+    "csv",
+    "vue excel",
+    "vue js excel"
+  ],
+  "author": "mustafacagri | Mustafa Çağrı Güven me@mustafacagri.com",
+  "license": "ISC"
+}

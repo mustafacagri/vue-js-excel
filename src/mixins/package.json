@@ -1,0 +1,14 @@
+{
+    "name": "vue-js-excel",
+    "version": "1.0.3",
+    "description": "Easily export your json data to excel or import your excel file to your json data",
+    "main": "vue-js-excel.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "vue", "vue.js", "excel", "csv", "vue excel", "vue js excel"
+    ],
+    "author": "mustafacagri | Mustafa Çağrı Güven me@mustafacagri.com",
+    "license": "ISC"
+}
